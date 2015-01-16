@@ -44,5 +44,12 @@
   },
   "dependencies": {
     "simple-cli": "^0.1.1"
+  },
+  "config": {
+    "blanket": {
+      "pattern": [
+        "grunt-simple-grunt/tasks"
+      ]
+    }
   }
 }

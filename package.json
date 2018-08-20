@@ -1,6 +1,6 @@
 {
   "name": "grunt-simple-grunt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A grunt wrapper to register alias tasks that use flags",
   "main": "tasks/grunt.js",
   "scripts": {
